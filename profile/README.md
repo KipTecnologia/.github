@@ -52,3 +52,7 @@ Save over 60% with full commercial access to all 5 micro-SaaS codebases:
 ---
 
 *Copyright (c) 2026 Kip Tecnologia. All rights reserved.*
+
+
+### ⚡ LinkCraft Pro v2.0
+| [**LinkCraft Pro**](https://github.com/KipTecnologia/linkcraft-pro) | Enterprise URL Shortener, Branded Links & Link-in-Bio Platform | [Demo](https://kiptecnologia.github.io/linkcraft-pro/) | [9](https://kiptecnologia.gumroad.com/l/linkcraft-pro) | [v2.0.0](https://github.com/KipTecnologia/linkcraft-pro/releases/tag/v2.0.0) |
